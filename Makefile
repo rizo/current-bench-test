@@ -17,6 +17,14 @@ define BENCH_DATA_1
         "ops_per_sec": 455.0,
         "mbs_per_sec": 7.0
       }
+    },
+    {
+      "name": "bench_1_test_3",
+      "metrics": {
+        "time": 2.2,
+        "ops_per_sec": 345.9,
+        "mbs_per_sec": 1.1
+      }
     }
   ]
 }
