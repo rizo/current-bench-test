@@ -5,17 +5,17 @@ define BENCH_DATA_1
     {
       "name": "bench_1_test_1",
       "metrics": {
-        "time": 0.02,
-        "ops_per_sec": 100.0,
-        "mbs_per_sec": 5.0
+        "time": 4.02,
+        "ops_per_sec": 600.0,
+        "mbs_per_sec": 15.0
       }
     },
     {
       "name": "bench_1_test_2",
       "metrics": {
-        "time": 0.04,
-        "ops_per_sec": 455.0,
-        "mbs_per_sec": 7.0
+        "time": 10.04,
+        "ops_per_sec": 1455.0,
+        "mbs_per_sec": 17.0
       }
     }
   ]
@@ -50,4 +50,3 @@ export BENCH_DATA_1
 export BENCH_DATA_2
 bench:
 	@echo "$$BENCH_DATA_1"
-	@echo "$$BENCH_DATA_2"
