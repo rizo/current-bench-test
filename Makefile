@@ -57,4 +57,5 @@ endef
 export BENCH_DATA_1
 export BENCH_DATA_2
 bench:
+	@sleep 5
 	@echo "$$BENCH_DATA_1"
