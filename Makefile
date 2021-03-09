@@ -7,7 +7,7 @@ define BENCH_DATA_1
       "metrics": {
         "time": 4.02,
         "ops_per_sec": 600.0,
-        "mbs_per_sec": 15.0
+        "mbs_per_sec": 199.0
       }
     },
     {
