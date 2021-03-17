@@ -6,7 +6,7 @@ define BENCH_DATA_1
       "name": "bench_1_test_1",
       "metrics": {
         "time": 0.52,
-        "ops_per_sec": 200.0,
+        "ops_per_sec": 210.0,
         "mbs_per_sec": 10.0
       }
     },
